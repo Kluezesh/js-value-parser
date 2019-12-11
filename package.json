@@ -1,5 +1,5 @@
 {
-  "name": "js-object-parser",
+  "name": "js-value-parser",
   "version": "1.0.0",
   "description": "deserialize javascript objects including non-standard JSON in fragmented text",
   "keywords": [
